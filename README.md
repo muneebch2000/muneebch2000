@@ -38,19 +38,22 @@ Hi, I’m (Muhammad Muneeb Ur Rehman)
 ---
 ## 🚀 Projects
 
-### 99 House Wash Dashboard
+### 99 House Wash Dashboard:
+link: https://99housewash.com/
 - Designed and implemented a scalable Tableau dashboard to visualize real-time data for business operations, enabling efficient decision-making.
 - Developed an optimized SQL query pipeline that reduced data processing times by 35%.
 - Integrated Python-based ETL workflows to streamline data ingestion and transformation.
 - Delivered an interactive and visually compelling dashboard tailored to business needs.
 
 ### CMMS Platform
+link: https://cmmstesting-0e7b88dac28c.herokuapp.com/login
 - Developed a user-friendly CMMS platform to automate and optimize maintenance scheduling and resource allocation.
 - Implemented a cloud-hosted web application with real-time analytics for asset tracking and performance monitoring.
 - Leveraged Python and React.js to create dynamic visualizations and intuitive UI components.
 - Enhanced maintenance workflows, resulting in a 25% reduction in downtime.
 
 ### Mason Lost & Found
+link: https://dev.d1u203xe6947dy.amplifyapp.com/
 - Created a Python-based web application hosted on AWS to streamline the reporting and recovery of lost items.
 - Developed intuitive submission and search functionalities, providing users with a seamless experience.
 - Utilized Amazon RDS for database management and Tableau for real-time data visualization.
