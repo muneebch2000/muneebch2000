@@ -7,7 +7,7 @@ At 15, I wanted to know what happened behind the screen when I clicked a button.
 
 I have **4 years of hands-on experience** across engineering, infrastructure, and security. I build products and secure the systems behind them.
 
-[Explore my portfolio](https://muneebch2000.github.io/portfolio-website/) · [View my experience](https://muneebch2000.github.io/portfolio-website/experience/)
+[Explore my portfolio](https://muneebch2000.github.io/portfolio-website/) 
 
 ## What I’m building
 
